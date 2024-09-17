@@ -3,3 +3,12 @@
 body{
           font-family: "Work Sans", sans-serif;
         }
+
+        .container-center{
+          max-width:500px;
+          margin:auto;
+        }
+
+        .container-fluid{
+          padding: 20px;
+        }
